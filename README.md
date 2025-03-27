@@ -36,10 +36,10 @@ bash script/deploy.sh
 
 ## 1. Install Bun
 ```bash
-curl -fsSL https://bun.sh/install | bash
+curl -fsSL https://bun.sh/install | bash 
 ```
 
-## 2. Install Dependencies
+## 2. Install Dependencies 
 ```bash
 cd ~ && cd try-devnet/packages/cli/
 ```
